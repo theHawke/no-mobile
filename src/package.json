@@ -1,0 +1,10 @@
+{
+  "name": "nomobile",
+  "title": "NoMobileLinks",
+  "id": "jid1-Ei8OelixKeJiUw",
+  "description": "Annoyed by links to mobile versions of websites? This addon will redirect you to the proper non-mobile website (does not (yet) work everywhere).",
+  "author": "Hauke Neitzel",
+  "license": "MPL 2.0",
+  "version": "0.1",
+  "icon": "data/icon-64-active.png"
+}
